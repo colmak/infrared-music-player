@@ -1,3 +1,3 @@
 # infrared-music-player
 
-Remote Controlled Music player via infrared remote. Music system programmed.
+Remote controlled music player via infrared remote. Music system programmed.
